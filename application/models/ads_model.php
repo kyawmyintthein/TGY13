@@ -1,4 +1,4 @@
-?php 
+<?php 
 
 class ads_model extends CI_Model {
 

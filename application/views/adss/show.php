@@ -5,7 +5,7 @@
 <body>
 <table>
 	<tr>
-			<th width="213" align="right" scope="row">Ads Type</th>
+			<th width="213" align="right" scope="row">company</th>
 			<td width="161"><?php echo $ads->company_name ?></td>
 			</tr>
 			<tr>

@@ -6,7 +6,7 @@
 	</head>
 
 <body>
-	<form method="post" action="<?php echo base_url(); ?>car_controller/create">
+	<form method="post" action="<?php echo base_url(); ?>ads_controller/create">
 		<table width="400" border="0" cellpadding="5">
 			<tr>
 				<th width="213" align="right" scope="row">company_name</th>

@@ -15,7 +15,7 @@
 		}
 		if (r==true)
 		{
-			window.location="<?php echo base_url();?>car_controller/"+act+"/"+gotoid;
+			window.location="<?php echo base_url();?>ads_controller/"+act+"/"+gotoid;
 		}
 }
 </script>
