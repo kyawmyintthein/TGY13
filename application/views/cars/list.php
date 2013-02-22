@@ -58,7 +58,7 @@
 
 <?php } ?>
 <tr>
-<td colspan="7" align="right"> <a href="<?php echo base_url(); ?>/car_controller/newform">Insert New User</a></td>
+<td colspan="7" align="right"> <a href="<?php echo base_url(); ?>car_controller/newform">Insert New User</a></td>
 </tr>
 </table>
 </body>
